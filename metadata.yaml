@@ -1,0 +1,36 @@
+_repo: Kellastuneita-lehtia_62701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larin-Kyösti
+    aliases:
+    - Larson, Karl Gustaf
+    - Larson, Kyösti
+    - Kyösti, Larin
+    - Larson, Kaarlo Kyösti
+    - Larin-Kyosti
+    - Larson, Gosta
+    - Larsson, Karl Gustaf
+    - Larson, Gösta
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '45809'
+    url: http://www.gutenberg.org/2009/agents/45809
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+    - https://en.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+description: ''
+gutenberg_issued: '2020-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62701'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Kellastuneita lehtiä
+url: http://www.gutenberg.org/ebooks/62701
